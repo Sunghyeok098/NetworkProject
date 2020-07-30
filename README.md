@@ -8,6 +8,8 @@ Learn to use Socket Programming and Java.
 
 ## 1. Title
 
-Simple onine game using Socket Programming.
+Simple online game using Socket Programming.
+
+
 
 
